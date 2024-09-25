@@ -77,10 +77,10 @@ Refer to the project documentation shared on canvas.
 ## Project Requirements:
 This section describes what you need to do for the project.
  1. You will need to form teams of 3 students. Do let me or the TAs know if you have any
-issues forming teams. Teams must be formed by 20 September 2022. You may go to
+issues forming teams. Teams must be formed by 25 September 2024. You may go to
 Canvas to self-enrol into a team.
  2. Give your team a nice name.
- 3. You need to study the partial design described in the previous section and the partial code located at: URL and comprehend the existing system. You may discuss the existing design as a team.
+ 3. You need to study the partial design described in the previous section and the partial code located in the starter code provided to you and comprehend the existing system. You may discuss the existing design as a team.
  4. **Each team member must do the following**
     a. Identify at least one design problem in the system (ensure that each team member identifies a different problem)
     b. Solve the design problems using the GoF design patterns. DO the following: 
@@ -119,9 +119,9 @@ e. How could the course have been designed better or communicated better?
 1. Use only JDK version 15 and above.
 2. You may use any drawing tool to draw diagrams in UML notation.
 The diagrams should be legible.
-3. Use the GitHub Classroom repository created for your team.
+3. Use the GitHub Classroom repository you created for your team.
 4. Upload your report and reflection to the Canvas folder in a pdf file with your name in the filename &lt;your CMU ID&gt;Report.pdf; &lt;your CMU ID&gt;Reflection.pdf
-5. Deadline for submission: 17 October 2022
+5. Deadline for submission: 10th October 2024
 6. Late submission penalty:
 1-2 day late: lose 3% of max
 3 days late: lose 5% of max
@@ -140,19 +140,19 @@ You can score better if you do the following well:
 
 8. Ensure that your code runs without errors. Make it simple for us to run your code. If it does not run for us, we will not be able to give you marks for this portion.
 
-## Marking Scheme (Total: 40 points):
+## Marking Scheme (Total: 25 points):
 | Item                             | Points |
 |----------------------------------|--------|
-| Problem                          | 5      |
-| Candidate patterns               | 3      |
-| Choosing the pattern             | 5      |
-| Modified Class diagram           | 5      |
-| Modified sequence diagram        | 5      |
+| Problem                          | 3      |
+| Candidate patterns               | 2      |
+| Choosing the pattern             | 3      |
+| Modified Class diagram           | 3      |
+| Modified sequence diagram        | 3      |
 | Addressing Implementation issues | 2      |
-| Modified Code for the pattern    | 5      |
-| Execution of the application     | 5      |
-| Reflection                       | 5      |
-| **Total**                        | **40** |
+| Modified Code for the pattern    | 3      |
+| Execution of the application     | 4      |
+| Reflection                       | 2      |
+| **Total**                        | **25** |
 
 ***All the best***
 ***Redesign Refactor Retest and Rejoice***
